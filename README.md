@@ -7,7 +7,7 @@ This is dedicated to Chafic, who never misses the opportunity to:
 So, dear kind Sir, as a fight for my dignity, here is your Wordle Solver, developed fully in-house :)  
 
 \
-\
+
 \
 
 <p align="center">
@@ -16,7 +16,7 @@ So, dear kind Sir, as a fight for my dignity, here is your Wordle Solver, develo
 
 
 \
-\
+
 \
 
 To run, open the RUN_ME file
