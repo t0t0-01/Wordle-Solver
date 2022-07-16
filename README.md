@@ -16,6 +16,8 @@ So, dear kind Sir, as a fight for my dignity, here is your Wordle Solver, develo
 
 <br />
 
+To run, open the RUN_ME file
+
 
 
 <sup><sup><sup>Also, please dont fire me lol</sup></sup></sup>
