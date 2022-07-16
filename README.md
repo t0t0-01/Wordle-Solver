@@ -7,7 +7,8 @@ This is dedicated to Chafic, who never misses the opportunity to:
 So, dear kind Sir, as a fight for my dignity, here is your Wordle Solver, developed fully in-house :)  
 
 
-\n
+\
+\
 
 
 <p align="center">
