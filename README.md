@@ -6,12 +6,12 @@ This is dedicated to Chafic, who never misses the opportunity to:
 </ol>
 So, dear kind Sir, as a shot to retain my dignity, here is your Wordle Solver, developed fully in-house :)  
 
-\\
+\\n
 
 <p align="center">
 <img src="https://github.com/t0t0-01/Wordle-Solver/blob/main/data/squidward-dance.gif" width="250" height="250"/>
  </p>
 
-\\
+\\n
 
 To run, open the RUN_ME file
