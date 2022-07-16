@@ -8,9 +8,6 @@ So, dear kind Sir, as a fight for my dignity, here is your Wordle Solver, develo
 
 
 \
-\
-
-
 <p align="center">
 <img src="https://github.com/t0t0-01/Wordle-Solver/blob/main/data/squidward-dance.gif" width="250" height="250"/>
  </p>
@@ -18,6 +15,4 @@ So, dear kind Sir, as a fight for my dignity, here is your Wordle Solver, develo
 
 
 \
-
-
 To run, open the RUN_ME file
