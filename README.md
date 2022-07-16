@@ -4,7 +4,7 @@ This is dedicated to Chafic, who never misses the opportunity to:
   <li>Trash my Wordle skills</li>
   <li>Express his disappointment in me, because back in his days they used to wirte C++ code that solved world hunger in under 3 hours</li>
 </ol>
-So, dear kind Sir, as a fight for my dignity, here is your Wordle Solver, developed fully in-house :)  
+So, dear kind Sir, as a shot to retain my dignity, here is your Wordle Solver, developed fully in-house :)  
 
 \
 
