@@ -6,8 +6,16 @@ This is dedicated to Chafic, who never misses the opportunity to
 </ol>
 So, dear kind Sir, as a fight for my dignity, here is your Wordle Solver, developed fully in-house :) 
 
-![](https://github.com/t0t0-01/Wordle-Solver/blob/main/data/squidward-dance.gif)\
+![](https://github.com/t0t0-01/Wordle-Solver/blob/main/data/squidward-dance.gif)
 
-![](https://github.com/t0t0-01/Wordle-Solver/blob/main/data/raise-eyebrow-sexy.gif) \
+![](https://github.com/t0t0-01/Wordle-Solver/blob/main/data/raise-eyebrow-sexy.gif)
+
+
+
+
+
+
+
+
 
 <sup><sup><sup>Also, please dont fire me lol</sup></sup></sup>
